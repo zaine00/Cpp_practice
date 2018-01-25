@@ -7,7 +7,7 @@ int main()
 {
     int n;
     cout << left<< setw(4)<<"1" << "Cola" <<endl;
-   cout << setw(4)<<"2" << "Water" <<endl;
+    cout << setw(4)<<"2" << "Water" <<endl;
     cout << setw(4)<<"3" << "Tea" <<endl;
     cout << setw(4)<<"4" << "Coffee" <<endl;
     cout << setw(4) << "5"<< "Sprite" <<endl;
